@@ -1,0 +1,14 @@
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+ctransformers
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+langchain_community
+python-dotenv
+langchain-google-genai
+llama-cpp-python
